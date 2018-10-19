@@ -1,4 +1,4 @@
-package ie.ul.davefisher.moviequotes;
+package ie.ul.davidfisher.moviequotes;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
