@@ -27,7 +27,6 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-  public static final String TAG = "MQ";
   private int mTempCounter = 0;
 
   @Override
